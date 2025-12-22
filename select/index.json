@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mantra Hujan",
+  "base_artist": "Kobo Kanaeru",
+  "createdAt": "2025-12-22T07:07:04.939935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mantra Hujan",
+      "artist": "Kobo Kanaeru",
+      "has_synced": true,
+      "path": "select/01_Mantra_Hujan_Kobo_Kanaeru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mantra Hujan Jawa Koplo",
+      "artist": "Rakakun-",
+      "has_synced": false,
+      "path": "select/02_Mantra_Hujan_Jawa_Koplo_Rakakun-.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mantra Hujan (Chinese Version)",
+      "artist": "Bodokun",
+      "has_synced": false,
+      "path": "select/03_Mantra_Hujan_(Chinese_Version)_Bodokun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mantra Hujan",
+      "artist": "Kobo Kanaeru",
+      "has_synced": false,
+      "path": "select/pl_01_Mantra_Hujan_Kobo_Kanaeru.txt"
+    }
+  ]
+}
