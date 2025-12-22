@@ -1,0 +1,37 @@
+# Kobo Kanaeru – Mantra Hujan
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.69] Rapalkan mantra, kilau cahaya
+[00:23.34] Sinari dunia
+[00:29.34] 
+[00:30.98] Sunyi dan sepi di ruang hampa
+[00:33.65] Masalah datang dan pergi sudah biasa
+[00:37.55] Ah, sendiri lagi
+[00:39.99] Enggan untuk melangkah
+[00:50.99] 
+[00:42.99] Kubuka mata, menatap langit
+[00:45.75] Rintik hujan bergema, genangi bentala
+[00:49.55] Ah, seakan membisik
+[00:51.41] Ayo, jelajahi dunia
+[01:00.91] 
+[00:54.74] Melamunkan berbagai angan
+[00:57.77] Tak akan s'lesaikan masalah (masalah)
+[01:00.96] B'ranikan diri untuk melangkah
+[01:03.75] Terobos segala rintangan
+[01:15.75] 
+[01:10.10] Walau hujan tak kunjung berhenti
+[01:12.57] Masih ada aku (masih ada aku) temanimu di sini
+[01:15.91] Rapalkan mantra, datangkan cahaya
+[01:18.70] 'Tuk sinari hari-harimu
+[01:30.20] 
+[01:22.07] Hilangkan semua rasa ragu
+[01:24.78] Yang s'limuti hati, pikiran, dan emosi
+[01:27.98] Rapalkan mantra, datangkan cahaya
+[01:30.92] Buka lembaran yang baru
+[01:42.42] 
+[01:37.03] Bo, Kobo, Kobo
+[01:37.88] Kobo Kanaeru at your service!
+[01:39.87] Let me be your sun to shine your day!
+```
